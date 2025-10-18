@@ -1,4 +1,6 @@
 # EDGE-DETECTION
+# NAME SAI HRISHI M
+# REG NO 212224240140
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
