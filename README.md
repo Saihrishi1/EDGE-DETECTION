@@ -52,6 +52,9 @@ plt.axis('off')
 ```
 
 ## Output:
+### ORIGINAL IMAGE
+<img width="340" height="462" alt="image" src="https://github.com/user-attachments/assets/7f6c92b6-7cf7-48a0-836b-c6fbea3d14fa" />
+
 ### SOBEL EDGE DETECTOR
 
 <img width="337" height="461" alt="image" src="https://github.com/user-attachments/assets/1b262958-e488-4c7a-9e26-41c19703bb52" />
